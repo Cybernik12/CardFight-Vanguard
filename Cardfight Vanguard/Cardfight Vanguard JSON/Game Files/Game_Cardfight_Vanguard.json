@@ -1,6 +1,6 @@
 {
   "name": "Cardfight Vanguard",
-  "menuBackgroundImage": "https://upload.wikimedia.org/wikipedia/commons/1/18/Vg_new_logo.png",
+  "menuBackgroundImage": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/Banners/is-aichi-kai-and-ren-in-vanguard-dear-days-based-on-the-og-v0-qf3sy59dequb1.jpg",
   "defaultRessources": {
     "backgrounds": [
       "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/Playmat/cardfight___vanguard_playmat_template___overdress__by_hasukegames_dewq5qz-pre.jpg"
@@ -8,14 +8,16 @@
     "decksUrl": ""
   },
   "customHelp": "",
-  "cardRotation": 45,
+  "cardRotation": "90",
   "cards": {
     "dataUrl": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard JSON/Card Lists/CardfightVanguardCardList.json",
     "cardBack": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/Cardbacks/Sleeve133.jpg"
   },
   "deckBuilding": {
     "mainFilters": [
-      ""
+      "Cost",
+      "Clan",
+      "Name"
     ],
     "formats": [
       {
@@ -47,25 +49,48 @@
       ],
       "hideFacedDownCards": false,
       "sections": {
-        "customSections": [
-          "Front Row",
-          "Back Row"
-        ],
+        "customSections": [],
         "layout": {
-          "direction": "row",
+          "direction": "column",
           "isSymetricalForOpponents": false,
           "content": [
             {
-              "section": "Front Row",
-              "style": false
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "Rear Guard",
+                  "style": false
+                },
+                {
+                  "section": "Vanguard",
+                  "style": false
+                },
+                {
+                  "section": "Rear Guard",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
             },
             {
-              "section": "Vanguard",
-              "style": false
-            },
-            {
-              "section": "Front Row",
-              "style": false
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "Rear Guard",
+                  "style": false
+                },
+                {
+                  "section": "Rear Guard",
+                  "style": false
+                },
+                {
+                  "section": "Rear Guard",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
             }
           ]
         },
@@ -73,26 +98,26 @@
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},
         "sectionsDict": {
-          "Front Row": {
-            "title": "Front Row",
-            "isHidden": "yes",
-            "height": "MEDIUM",
-            "alignment": "START",
+          "c3c32924-2e86-43c3-92a7-65b21fe1fe71": {
+            "title": "Rear Guard",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
             "opponentAlignment": false,
-            "noAutoPayTo": "true",
-            "isHorizontalAllowed": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
             "displayedTitle": "",
+            "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": false
+            "showHiddenCardInHistory": false
           },
-          "Back Row": {
-            "title": "Back Row",
+          "b1715de6-448a-41d5-86ef-5a0e97b64f89": {
+            "title": "Vanguard",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
