@@ -1,9 +1,13 @@
 {
   "name": "Cardfight Vanguard",
-  "menuBackgroundImage": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/Banners/is-aichi-kai-and-ren-in-vanguard-dear-days-based-on-the-og-v0-qf3sy59dequb1.jpg",
+  "menuBackgroundImage": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/Banners/Vg_new_logo.jpg",
   "defaultRessources": {
     "backgrounds": [
-      "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/Playmat/cardfight___vanguard_playmat_template___overdress__by_hasukegames_dewq5qz-pre.jpg"
+      "https://valcur.github.io/TCG-Arena-Yugioh/Images/1.jpg",
+      "https://valcur.github.io/TCG-Arena-Yugioh/Images/2.jpg",
+      "https://valcur.github.io/TCG-Arena-Yugioh/Images/3.jpg",
+      "https://valcur.github.io/TCG-Arena-Yugioh/Images/4.jpg",
+      "https://valcur.github.io/TCG-Arena-Yugioh/Images/5.jpg"
     ],
     "decksUrl": ""
   },
@@ -24,7 +28,9 @@
       {
         "title": "Classic",
         "gameplay": "Classic",
-        "customCategories": []
+        "customCategories": [
+          "Ride Deck"
+        ]
       }
     ]
   },
@@ -178,7 +184,7 @@
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "Ride Deck"
+          "Ride Deck->Ride_Deck"
         ],
         "autoPlayFromHand": {},
         "autoPlayFromStack": {
