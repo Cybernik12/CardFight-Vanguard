@@ -1,0 +1,112 @@
+{
+  "name": "Cardfight Vanguard",
+  "menuBackgroundImage": "https://upload.wikimedia.org/wikipedia/commons/1/18/Vg_new_logo.png",
+  "defaultRessources": {
+    "backgrounds": [
+      "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/Playmat/cardfight___vanguard_playmat_template___overdress__by_hasukegames_dewq5qz-pre.jpg"
+    ],
+    "decksUrl": ""
+  },
+  "customHelp": "",
+  "cardRotation": 45,
+  "cards": {
+    "dataUrl": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard JSON/Card Lists/CardList (3).json",
+    "cardBack": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/Cardbacks/Sleeve133.jpg"
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      ""
+    ],
+    "formats": [
+      {
+        "title": "Standard",
+        "gameplay": "",
+        "customCategories": []
+      }
+    ]
+  },
+  "gameplay": {
+    "Standard": {
+      "mulligan": {
+        "info": "",
+        "startingHandSize": "5",
+        "drawNewHand": true,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": false
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": 1
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "countersStartingValues": [
+        "1"
+      ],
+      "hideFacedDownCards": false,
+      "sections": {
+        "customSections": [
+          "Front Row",
+          "Back Row"
+        ],
+        "layout": {
+          "direction": "row",
+          "isSymetricalForOpponents": false,
+          "content": [
+            {
+              "section": "Front Row",
+              "style": false
+            },
+            {
+              "section": "Vanguard",
+              "style": false
+            },
+            {
+              "section": "Front Row",
+              "style": false
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [],
+        "autoPlayFromHand": {},
+        "autoPlayFromStack": {},
+        "sectionsDict": {
+          "Front Row": {
+            "title": "Front Row",
+            "isHidden": "yes",
+            "height": "MEDIUM",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": "true",
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false
+          },
+          "Back Row": {
+            "title": "Back Row",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
+        }
+      }
+    }
+  }
+}
