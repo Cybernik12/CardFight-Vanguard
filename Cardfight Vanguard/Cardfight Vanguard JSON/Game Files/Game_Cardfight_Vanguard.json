@@ -20,8 +20,8 @@
   },
   "deckBuilding": {
     "mainFilters": [
-      "rank",
-      "clan"
+      "cost",
+      "type"
     ],
     "formats": [
       {
