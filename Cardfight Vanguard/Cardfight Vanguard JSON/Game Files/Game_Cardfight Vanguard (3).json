@@ -74,42 +74,42 @@
                   "section": "Damage_1",
                   "style": {
                     "marginRight": "4vh",
-                    "height": "10vh"
+                    "height": "5vh"
                   }
                 },
                 {
                   "section": "Damage_2",
                   "style": {
                     "marginRight": "4vh",
-                    "height":" 10vh"
+                    "height":" 5vh"
                   }
                 },
                 {
                   "section": "Damage_3",
                   "style": {
                     "marginRight": "4vh",
-                    "height":" 10vh"
+                    "height":" 5vh"
                   }
                 },
                 {
                   "section": "Damage_4",
                   "style": {
                     "marginRight": "4vh",
-                    "height":" 10vh"
+                    "height":" 5vh"
                   }
                 },
                 {
                   "section": "Damage_5",
                   "style": {
                     "marginRight": "4vh",
-                    "height":" 10vh"
+                    "height":" 5vh"
                   }
                 },
                 {
                   "section": "Damage_6",
                   "style": {
                     "marginRight": "4vh",
-                    "height":" 10vh"
+                    "height":" 5vh"
                   }
                 }
               ],
