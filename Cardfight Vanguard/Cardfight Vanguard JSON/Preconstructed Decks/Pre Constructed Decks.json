@@ -1,0 +1,397 @@
+[
+  {
+    "title": "TD01",
+    "id": "707a51f1-7be4-4c22-adb3-34a59c759b22",
+    "game": "Cardfight Vanguard",
+    "format": [
+      "Classic"
+    ],
+    "cardCount": 50,
+    "createdAt": "2025-12-27T15:45:43.538Z",
+    "lastModifiedAt": "2025-12-27T15:47:25.382Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Starting Vanguard",
+        "Ride Deck",
+        "Royal Paladin"
+      ],
+      "Sideboard": [],
+      "Royal Paladin": [
+        {
+          "count": 4,
+          "id": "TD01/001EN"
+        },
+        {
+          "count": 1,
+          "id": "TD01/002EN"
+        },
+        {
+          "count": 1,
+          "id": "TD01/003EN"
+        },
+        {
+          "count": 4,
+          "id": "TD01/004EN"
+        },
+        {
+          "count": 3,
+          "id": "TD01/006EN"
+        },
+        {
+          "count": 4,
+          "id": "TD01/007EN"
+        },
+        {
+          "count": 4,
+          "id": "TD01/008EN"
+        },
+        {
+          "count": 2,
+          "id": "TD01/009EN"
+        },
+        {
+          "count": 4,
+          "id": "TD01/010EN"
+        },
+        {
+          "count": 3,
+          "id": "TD01/011EN"
+        },
+        {
+          "count": 4,
+          "id": "TD01/013EN"
+        },
+        {
+          "count": 4,
+          "id": "TD01/014EN"
+        },
+        {
+          "count": 4,
+          "id": "TD01/015EN"
+        },
+        {
+          "count": 4,
+          "id": "TD01/016EN"
+        }
+      ],
+      "Ride Deck": [
+        {
+          "count": 1,
+          "id": "TD01/003EN"
+        },
+        {
+          "count": 1,
+          "id": "TD01/005EN"
+        },
+        {
+          "count": 1,
+          "id": "TD01/011EN"
+        }
+      ],
+      "Starting Vanguard": [
+        {
+          "count": 1,
+          "id": "TD01/012EN"
+        }
+      ]
+    }
+  },
+
+  {
+    "title": "TD02",
+    "id": "7d8e2b2e-b94c-4850-b508-08e144e90586",
+    "game": "Cardfight Vanguard",
+    "format": [
+      "Classic"
+    ],
+    "cardCount": 50,
+    "createdAt": "2025-12-27T15:47:53.571Z",
+    "lastModifiedAt": "2025-12-27T15:49:57.155Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Starting Vanguard",
+        "Ride Deck",
+        "Kagero"
+      ],
+      "Sideboard": [],
+      "Kagero": [
+        {
+          "count": 1,
+          "id": "TD02/001EN"
+        },
+        {
+          "count": 1,
+          "id": "TD02/002EN"
+        },
+        {
+          "count": 4,
+          "id": "TD02/003EN"
+        },
+        {
+          "count": 4,
+          "id": "TD02/004EN"
+        },
+        {
+          "count": 3,
+          "id": "TD02/005EN"
+        },
+        {
+          "count": 4,
+          "id": "TD02/006EN"
+        },
+        {
+          "count": 4,
+          "id": "TD02/007EN"
+        },
+        {
+          "count": 1,
+          "id": "TD02/008EN"
+        },
+        {
+          "count": 4,
+          "id": "TD02/009EN"
+        },
+        {
+          "count": 2,
+          "id": "TD02/010EN"
+        },
+        {
+          "count": 2,
+          "id": "TD02/011EN"
+        },
+        {
+          "count": 4,
+          "id": "TD02/013EN"
+        },
+        {
+          "count": 4,
+          "id": "TD02/014EN"
+        },
+        {
+          "count": 4,
+          "id": "TD02/015EN"
+        },
+        {
+          "count": 4,
+          "id": "TD02/016EN"
+        }
+      ],
+      "Ride Deck": [
+        {
+          "count": 1,
+          "id": "TD02/001EN"
+        },
+        {
+          "count": 1,
+          "id": "TD02/005EN"
+        },
+        {
+          "count": 1,
+          "id": "TD02/008EN"
+        }
+      ],
+      "Starting Vanguard": [
+        {
+          "count": 1,
+          "id": "TD02/012EN"
+        }
+      ]
+    }
+  },
+
+  {
+    "title": "TD03",
+    "id": "140e14dd-2e18-4876-888a-eeb75d7f76cb",
+    "game": "Cardfight Vanguard",
+    "format": [
+      "Classic"
+    ],
+    "cardCount": 50,
+    "createdAt": "2025-12-27T15:50:29.300Z",
+    "lastModifiedAt": "2025-12-27T15:53:06.148Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Starting Vanguard",
+        "Ride Deck",
+        "Nova Grappler"
+      ],
+      "Sideboard": [],
+      "Nova Grappler": [
+        {
+          "count": 2,
+          "id": "TD03/002EN"
+        },
+        {
+          "count": 4,
+          "id": "TD03/003EN"
+        },
+        {
+          "count": 4,
+          "id": "TD03/004EN"
+        },
+        {
+          "count": 1,
+          "id": "TD03/005EN"
+        },
+        {
+          "count": 4,
+          "id": "TD03/006EN"
+        },
+        {
+          "count": 4,
+          "id": "TD03/007EN"
+        },
+        {
+          "count": 4,
+          "id": "TD03/008EN"
+        },
+        {
+          "count": 4,
+          "id": "TD03/009EN"
+        },
+        {
+          "count": 3,
+          "id": "TD03/010EN"
+        },
+        {
+          "count": 1,
+          "id": "TD03/011EN"
+        },
+        {
+          "count": 4,
+          "id": "TD03/012EN"
+        },
+        {
+          "count": 4,
+          "id": "TD03/013EN"
+        },
+        {
+          "count": 4,
+          "id": "TD03/014EN"
+        },
+        {
+          "count": 3,
+          "id": "TD03/015EN"
+        }
+      ],
+      "Ride Deck": [
+        {
+          "count": 1,
+          "id": "TD03/001EN"
+        },
+        {
+          "count": 1,
+          "id": "TD03/005EN"
+        },
+        {
+          "count": 1,
+          "id": "TD03/011EN"
+        }
+      ],
+      "Starting Vanguard": [
+        {
+          "count": 1,
+          "id": "TD03/015EN"
+        }
+      ]
+    }
+  },
+
+  {
+    "title": "TD04",
+    "id": "d7667ae6-d231-43a7-beef-87af4280bf4e",
+    "game": "Cardfight Vanguard",
+    "format": [
+      "Classic"
+    ],
+    "cardCount": 50,
+    "createdAt": "2025-12-27T15:53:31.716Z",
+    "lastModifiedAt": "2025-12-27T15:55:31.802Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Starting Vanguard",
+        "Ride Deck",
+        "Oracle Think Tank"
+      ],
+      "Sideboard": [],
+      "Oracle Think Tank": [
+        {
+          "count": 4,
+          "id": "TD04/001EN"
+        },
+        {
+          "count": 2,
+          "id": "TD04/003EN"
+        },
+        {
+          "count": 4,
+          "id": "TD04/004EN"
+        },
+        {
+          "count": 4,
+          "id": "TD04/005EN"
+        },
+        {
+          "count": 1,
+          "id": "TD04/006EN"
+        },
+        {
+          "count": 4,
+          "id": "TD04/007EN"
+        },
+        {
+          "count": 4,
+          "id": "TD04/008EN"
+        },
+        {
+          "count": 4,
+          "id": "TD04/009EN"
+        },
+        {
+          "count": 1,
+          "id": "TD04/010EN"
+        },
+        {
+          "count": 3,
+          "id": "TD04/011EN"
+        },
+        {
+          "count": 4,
+          "id": "TD04/012EN"
+        },
+        {
+          "count": 4,
+          "id": "TD04/013EN"
+        },
+        {
+          "count": 4,
+          "id": "TD04/014EN"
+        },
+        {
+          "count": 3,
+          "id": "TD04/015EN"
+        }
+      ],
+      "Ride Deck": [
+        {
+          "count": 1,
+          "id": "TD04/002EN"
+        },
+        {
+          "count": 1,
+          "id": "TD04/006EN"
+        },
+        {
+          "count": 1,
+          "id": "TD04/010EN"
+        }
+      ],
+      "Starting Vanguard": [
+        {
+          "count": 1,
+          "id": "TD04/015EN"
+        }
+      ]
+    }
+  }
+]
