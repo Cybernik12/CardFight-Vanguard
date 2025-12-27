@@ -76,10 +76,7 @@
           "content": [
             {
               "direction": "column",
-              "style": {
-                "justifyContent": "start",
-                "width": "22vh"
-              },
+              "style": false,
               "content": [
                 {
                   "direction": "column",
@@ -114,32 +111,22 @@
             },
             {
               "direction": "column",
-              "style": {
-                "width": "93vh",
-                "marginRight": "auto",
-                "marginLeft": "auto"
-              },
+              "style": false,
               "content": [
                 {
                   "direction": "row",
                   "content": [
                     {
                       "section": "Front_Row_1",
-                      "style": {
-                        "marginRight": "4vh"
-                      }
+                      "style": false
                     },
                     {
                       "section": "Vanguard",
-                      "style": {
-                        "marginRight": "4vh"
-                      }
+                      "style": false
                     },
                     {
                       "section": "Front_Row_2",
-                      "style": {
-                        "marginRight": "4vh"
-                      }
+                      "style": false
                     }
                   ]
                 },
@@ -148,21 +135,15 @@
                   "content": [
                     {
                       "section": "Back_Row_1",
-                      "style": {
-                        "marginRight": "4vh"
-                      }
+                      "style": false
                     },
                     {
                       "section": "Back_Row_2",
-                      "style": {
-                        "marginRight": "4vh"
-                      }
+                      "style": false
                     },
                     {
                       "section": "Back_Row_3",
-                      "style": {
-                        "marginRight": "4vh"
-                      }
+                      "style": false
                     }
                   ]
                 }
@@ -170,9 +151,7 @@
             },
             {
               "direction": "row",
-              "style": {
-                "width": "12vh"
-              },
+              "style": false,
               "content": [
                 {
                   "section": "Ride_Deck"
@@ -186,9 +165,7 @@
           "Ride Deck->Ride_Deck"
         ],
         "autoPlayFromHand": {},
-        "autoPlayFromStack": {
-          "Rear Guard": "Discard"
-        },
+        "autoPlayFromStack": {},
         "sectionsDict": {
           "Damage_2": {
             "title": "Damage_2",
