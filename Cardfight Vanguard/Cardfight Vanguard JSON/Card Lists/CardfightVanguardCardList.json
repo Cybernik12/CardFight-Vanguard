@@ -1,0 +1,997 @@
+{
+  "TD01/001EN": {
+    "id": "TD01/001EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Crimson Butterfly, Brigitte",
+        "type": "Royal Paladin",
+        "cost": "3",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD01/TD01_001EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Crimson Butterfly, Brigitte",
+    "type": "Royal Paladin",
+    "cost": "3"
+  },
+  "TD01/002EN": {
+    "id": "TD01/002EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Knight of Conviction, Bors",
+        "type": "Royal Paladin",
+        "cost": "3",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD01/TD01_002EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Knight of Conviction, Bors",
+    "type": "Royal Paladin",
+    "cost": "3"
+  },
+  "TD01/003EN": {
+    "id": "TD01/003EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Solitary Knight, Gancelot",
+        "type": "Royal Paladin",
+        "cost": "3",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD01/TD01_003EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Solitary Knight, Gancelot",
+    "type": "Royal Paladin",
+    "cost": "3"
+  },
+  "TD01/004EN": {
+    "id": "TD01/004EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Knight of Silence, Gallatin",
+        "type": "Royal Paladin",
+        "cost": "3",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD01/TD01_004EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Knight of Silence, Gallatin",
+    "type": "Royal Paladin",
+    "cost": "3"
+  },
+  "TD01/005EN": {
+    "id": "TD01/005EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blaster Blade",
+        "type": "Royal Paladin",
+        "cost": "2",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD01/TD01_005EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blaster Blade",
+    "type": "Royal Paladin",
+    "cost": "2"
+  },
+  "TD01/006EN": {
+    "id": "TD01/006EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Knight of the Harp, Tristan",
+        "type": "Royal Paladin",
+        "cost": "2",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD01/TD01_006EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Knight of the Harp, Tristan",
+    "type": "Royal Paladin",
+    "cost": "2"
+  },
+  "TD01/007EN": {
+    "id": "TD01/007EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Covenant Knight, Randolf",
+        "type": "Royal Paladin",
+        "cost": "2",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD01/TD01_007EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Covenant Knight, Randolf",
+    "type": "Royal Paladin",
+    "cost": "2"
+  },
+  "TD01/008EN": {
+    "id": "TD01/008EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Little Sage, Marron",
+        "type": "Royal Paladin",
+        "cost": "1",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD01/TD01_008EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Little Sage, Marron",
+    "type": "Royal Paladin",
+    "cost": "1"
+  },
+  "TD01/009EN": {
+    "id": "TD01/009EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wingal",
+        "type": "Royal Paladin",
+        "cost": "1",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD01/TD01_009EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wingal",
+    "type": "Royal Paladin",
+    "cost": "1"
+  },
+  "TD01/010EN": {
+    "id": "TD01/010EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Starlight Unicorn",
+        "type": "Royal Paladin",
+        "cost": "1",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD01/TD01_010EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Starlight Unicorn",
+    "type": "Royal Paladin",
+    "cost": "1"
+  },
+  "TD01/011EN": {
+    "id": "TD01/011EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Knight of Rose, Morgana",
+        "type": "Royal Paladin",
+        "cost": "1",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD01/TD01_011EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Knight of Rose, Morgana",
+    "type": "Royal Paladin",
+    "cost": "1"
+  },
+  "TD01/012EN": {
+    "id": "TD01/012EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Stardust Trumpeter",
+        "type": "Royal Paladin",
+        "cost": "0",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD01/TD01_012EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stardust Trumpeter",
+    "type": "Royal Paladin",
+    "cost": "0"
+  },
+  "TD01/013EN": {
+    "id": "TD01/013EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bringer of Good Luck, Epona",
+        "type": "Royal Paladin",
+        "cost": "0",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD01/TD01_013EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bringer of Good Luck, Epona",
+    "type": "Royal Paladin",
+    "cost": "0"
+  },
+  "TD01/014EN": {
+    "id": "TD01/014EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yggdrasil Maiden, Elaine",
+        "type": "Royal Paladin",
+        "cost": "0",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD01/TD01_014EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yggdrasil Maiden, Elaine",
+    "type": "Royal Paladin",
+    "cost": "0"
+  },
+  "TD01/015EN": {
+    "id": "TD01/015EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Weapons Dealer, Govannon",
+        "type": "Royal Paladin",
+        "cost": "0",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD01/TD01_015EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Weapons Dealer, Govannon",
+    "type": "Royal Paladin",
+    "cost": "0"
+  },
+  "TD01/016EN": {
+    "id": "TD01/016EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Flogal",
+        "type": "Royal Paladin",
+        "cost": "0",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD01/TD01_016EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Flogal",
+    "type": "Royal Paladin",
+    "cost": "0"
+  },
+
+  "TD02/001EN": {
+    "id": "TD02/001EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dragonic Overlord",
+        "type": "Kagero",
+        "cost": "3",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD02/TD02_001EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dragonic Overlord",
+    "type": "Kagero",
+    "cost": "3"
+  },
+  "TD02/002EN": {
+    "id": "TD02/002EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dragon Monk, Goku",
+        "type": "Kagero",
+        "cost": "3",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD02/TD02_002EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dragon Monk, Goku",
+    "type": "Kagero",
+    "cost": "3"
+  },
+  "TD02/003EN": {
+    "id": "TD02/003EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Demonic Dragon Berserker, Yaksha",
+        "type": "Kagero",
+        "cost": "3",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD02/TD02_003EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Demonic Dragon Berserker, Yaksha",
+    "type": "Kagero",
+    "cost": "3"
+  },
+  "TD02/004EN": {
+    "id": "TD02/004EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dragon Knight, Nehalem",
+        "type": "Kagero",
+        "cost": "2",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD02/TD02_004EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dragon Knight, Nehalem",
+    "type": "Kagero",
+    "cost": "2"
+  },
+  "TD02/005EN": {
+    "id": "TD02/005EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Berserk Dragon",
+        "type": "Kagero",
+        "cost": "2",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD02/TD02_005EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Berserk Dragon",
+    "type": "Kagero",
+    "cost": "2"
+  },
+  "TD02/006EN": {
+    "id": "TD02/006EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wyvern Strike, Tejas",
+        "type": "Kagero",
+        "cost": "2",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD02/TD02_006EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wyvern Strike, Tejas",
+    "type": "Kagero",
+    "cost": "2"
+  },
+  "TD02/007EN": {
+    "id": "TD02/007EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Embodiment of Armor, Bahr",
+        "type": "Kagero",
+        "cost": "1",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD02/TD02_007EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Embodiment of Armor, Bahr",
+    "type": "Kagero",
+    "cost": "1"
+  },
+  "TD02/008EN": {
+    "id": "TD02/008EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dragon Monk, Gojo",
+        "type": "Kagero",
+        "cost": "1",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD02/TD02_008EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dragon Monk, Gojo",
+    "type": "Kagero",
+    "cost": "1"
+  },
+  "TD02/009EN": {
+    "id": "TD02/009EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Flame of Hope, Aermo",
+        "type": "Kagero",
+        "cost": "1",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD02/TD02_009EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Flame of Hope, Aermo",
+    "type": "Kagero",
+    "cost": "1"
+  },
+  "TD02/010EN": {
+    "id": "TD02/010EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Demonic Dragon Madonna, Joka",
+        "type": "Kagero",
+        "cost": "1",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD02/TD02_010EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Demonic Dragon Madonna, Joka",
+    "type": "Kagero",
+    "cost": "1"
+  },
+  "TD02/011EN": {
+    "id": "TD02/011EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wyvern Strike, Jarran",
+        "type": "Kagero",
+        "cost": "1",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD02/TD02_011EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wyvern Strike, Jarran",
+    "type": "Kagero",
+    "cost": "1"
+  },
+  "TD02/012EN": {
+    "id": "TD02/012EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lizard Runner, Undeux",
+        "type": "Kagero",
+        "cost": "0",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD02/TD02_012EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lizard Runner, Undeux",
+    "type": "Kagero",
+    "cost": "0"
+  },
+  "TD02/013EN": {
+    "id": "TD02/013EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dragon Dancer, Monica",
+        "type": "Kagero",
+        "cost": "0",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD02/TD02_013EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dragon Dancer, Monica",
+    "type": "Kagero",
+    "cost": "0"
+  },
+  "TD02/014EN": {
+    "id": "TD02/014EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lizard Soldier, Ganlu",
+        "type": "Kagero",
+        "cost": "0",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD02/TD02_014EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lizard Soldier, Ganlu",
+    "type": "Kagero",
+    "cost": "0"
+  },
+  "TD02/015EN": {
+    "id": "TD02/015EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dragon Monk, Genjo",
+        "type": "Kagero",
+        "cost": "0",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD02/TD02_015EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dragon Monk, Genjo",
+    "type": "Kagero",
+    "cost": "0"
+  },
+  "TD02/016EN": {
+    "id": "TD02/016EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Demonic Dragon Mage, Rakshasa",
+        "type": "Kagero",
+        "cost": "0",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD02/TD02_016EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Demonic Dragon Mage, Rakshasa",
+    "type": "Kagero",
+    "cost": "0"
+  },
+
+  "TD03/001EN": {
+    "id": "TD03/001EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gold Rutile",
+        "type": "Nova Grappler",
+        "cost": "3",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD03/TD03_001EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gold Rutile",
+    "type": "Nova Grappler",
+    "cost": "3"
+  },
+  "TD03/002EN": {
+    "id": "TD03/002EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Death Metal Droid",
+        "type": "Nova Grappler",
+        "cost": "3",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD03/TD03_002EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Death Metal Droid",
+    "type": "Nova Grappler",
+    "cost": "3"
+  },
+  "TD03/003EN": {
+    "id": "TD03/003EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mr. Invincible",
+        "type": "Nova Grappler",
+        "cost": "3",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD03/TD03_003EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mr. Invincible",
+    "type": "Nova Grappler",
+    "cost": "3"
+  },
+  "TD03/004EN": {
+    "id": "TD03/004EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "King of Sword",
+        "type": "Nova Grappler",
+        "cost": "2",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD03/TD03_004EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "King of Sword",
+    "type": "Nova Grappler",
+    "cost": "2"
+  },
+  "TD03/005EN": {
+    "id": "TD03/005EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Super Electromagnetic Lifeform, Storm",
+        "type": "Nova Grappler",
+        "cost": "2",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD03/TD03_005EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Super Electromagnetic Lifeform, Storm",
+    "type": "Nova Grappler",
+    "cost": "2"
+  },
+  "TD03/006EN": {
+    "id": "TD03/006EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "NGM Prototype",
+        "type": "Nova Grappler",
+        "cost": "2",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD03/TD03_006EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "NGM Prototype",
+    "type": "Nova Grappler",
+    "cost": "2"
+  },
+  "TD03/007EN": {
+    "id": "TD03/007EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tough Boy",
+        "type": "Nova Grappler",
+        "cost": "1",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD03/TD03_007EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tough Boy",
+    "type": "Nova Grappler",
+    "cost": "1"
+  },
+  "TD03/008EN": {
+    "id": "TD03/008EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Oasis Girl",
+        "type": "Nova Grappler",
+        "cost": "1",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD03/TD03_008EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Oasis Girl",
+    "type": "Nova Grappler",
+    "cost": "1"
+  },
+  "TD03/009EN": {
+    "id": "TD03/009EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Screamin' and Dancin' Announcer, Shout",
+        "type": "Nova Grappler",
+        "cost": "1",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD03/TD03_009EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Screamin' and Dancin' Announcer, Shout",
+    "type": "Nova Grappler",
+    "cost": "1"
+  },
+  "TD03/010EN": {
+    "id": "TD03/010EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Queen of Heart",
+        "type": "Nova Grappler",
+        "cost": "1",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD03/TD03_010EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Queen of Heart",
+    "type": "Nova Grappler",
+    "cost": "1"
+  },
+  "TD03/011EN": {
+    "id": "TD03/011EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Battering Minotaur",
+        "type": "Nova Grappler",
+        "cost": "1",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD03/TD03_011EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Battering Minotaur",
+    "type": "Nova Grappler",
+    "cost": "1"
+  },
+  "TD03/012EN": {
+    "id": "TD03/012EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shining Lady",
+        "type": "Nova Grappler",
+        "cost": "0",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD03/TD03_012EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shining Lady",
+    "type": "Nova Grappler",
+    "cost": "0"
+  },
+  "TD03/013EN": {
+    "id": "TD03/013EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cannon Ball",
+        "type": "Nova Grappler",
+        "cost": "0",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD03/TD03_013EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cannon Ball",
+    "type": "Nova Grappler",
+    "cost": "0"
+  },
+  "TD03/014EN": {
+    "id": "TD03/014EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ring Girl, Clara",
+        "type": "Nova Grappler",
+        "cost": "0",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD03/TD03_014EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ring Girl, Clara",
+    "type": "Nova Grappler",
+    "cost": "0"
+  },
+  "TD03/015EN": {
+    "id": "TD03/015EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Battleraizer",
+        "type": "Nova Grappler",
+        "cost": "0",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD03/TD03_015EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Battleraizer",
+    "type": "Nova Grappler",
+    "cost": "0"
+  },
+
+  "TD04/001EN": {
+    "id": "TD04/001EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Oracle Guardian, Apollon",
+        "type": "Oracle Think Tank",
+        "cost": "3",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD04/TD04_001EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Oracle Guardian, Apollon",
+    "type": "Oracle Think Tank",
+    "cost": "3"
+  },
+  "TD04/002EN": {
+    "id": "TD04/002EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Goddess of Flower Divination, Sakuya",
+        "type": "Oracle Think Tank",
+        "cost": "3",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD04/TD04_002EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goddess of Flower Divination, Sakuya",
+    "type": "Oracle Think Tank",
+    "cost": "3"
+  },
+  "TD04/003EN": {
+    "id": "TD04/003EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Meteor Break Wizard",
+        "type": "Oracle Think Tank",
+        "cost": "3",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD04/TD04_003EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Meteor Break Wizard",
+    "type": "Oracle Think Tank",
+    "cost": "3"
+  },
+  "TD04/004EN": {
+    "id": "TD04/004EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Oracle Guardian, Wiseman",
+        "type": "Oracle Think Tank",
+        "cost": "2",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD04/TD04_004EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Oracle Guardian, Wiseman",
+    "type": "Oracle Think Tank",
+    "cost": "2"
+  },
+  "TD04/005EN": {
+    "id": "TD04/005EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Security Guardian",
+        "type": "Oracle Think Tank",
+        "cost": "2",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD04/TD04_005EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Security Guardian",
+    "type": "Oracle Think Tank",
+    "cost": "2"
+  },
+  "TD04/006EN": {
+    "id": "TD04/006EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sword Dancer Angel",
+        "type": "Oracle Think Tank",
+        "cost": "2",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD04/TD04_006EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sword Dancer Angel",
+    "type": "Oracle Think Tank",
+    "cost": "2"
+  },
+  "TD04/007EN": {
+    "id": "TD04/007EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Oracle Guardian, Gemini",
+        "type": "Oracle Think Tank",
+        "cost": "1",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD04/TD04_007EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Oracle Guardian, Gemini",
+    "type": "Oracle Think Tank",
+    "cost": "1"
+  },
+  "TD04/008EN": {
+    "id": "TD04/008EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dark Cat",
+        "type": "Oracle Think Tank",
+        "cost": "1",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD04/TD04_008EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dark Cat",
+    "type": "Oracle Think Tank",
+    "cost": "1"
+  },
+  "TD04/009EN": {
+    "id": "TD04/009EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Weather Girl, Milk",
+        "type": "Oracle Think Tank",
+        "cost": "1",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD04/TD04_009EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Weather Girl, Milk",
+    "type": "Oracle Think Tank",
+    "cost": "1"
+  },
+  "TD04/010EN": {
+    "id": "TD04/010EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Battle Sister, Maple",
+        "type": "Oracle Think Tank",
+        "cost": "1",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD04/TD04_010EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Battle Sister, Maple",
+    "type": "Oracle Think Tank",
+    "cost": "1"
+  },
+  "TD04/011EN": {
+    "id": "TD04/011EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Luck Bird",
+        "type": "Oracle Think Tank",
+        "cost": "1",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD04/TD04_011EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Luck Bird",
+    "type": "Oracle Think Tank",
+    "cost": "1"
+  },
+  "TD04/012EN": {
+    "id": "TD04/012EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Oracle Guardian, Nike",
+        "type": "Oracle Think Tank",
+        "cost": "0",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD04/TD04_012EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Oracle Guardian, Nike",
+    "type": "Oracle Think Tank",
+    "cost": "0"
+  },
+  "TD04/013EN": {
+    "id": "TD04/013EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dream Eater",
+        "type": "Oracle Think Tank",
+        "cost": "0",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD04/TD04_013EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dream Eater",
+    "type": "Oracle Think Tank",
+    "cost": "0"
+  },
+  "TD04/014EN": {
+    "id": "TD04/014EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Victory Maker",
+        "type": "Oracle Think Tank",
+        "cost": "0",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD04/TD04_014EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Victory Maker",
+    "type": "Oracle Think Tank",
+    "cost": "0"
+  },
+  "TD04/015EN": {
+    "id": "TD04/015EN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lozenge Magus",
+        "type": "Oracle Think Tank",
+        "cost": "0",
+        "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD04/TD04_015EN.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lozenge Magus",
+    "type": "Oracle Think Tank",
+    "cost": "0"
+  }
+}
