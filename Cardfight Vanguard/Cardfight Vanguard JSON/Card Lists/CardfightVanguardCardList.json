@@ -5,15 +5,15 @@
     "face": {
       "front": {
         "name": "Crimson Butterfly, Brigitte",
-        "type": "Royal Paladin",
-        "cost": "3",
+        "clan": "Royal Paladin",
+        "rank": "3",
         "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD01/TD01_001EN.jpg",
         "isHorizontal": false
       }
     },
     "name": "Crimson Butterfly, Brigitte",
-    "type": "Royal Paladin",
-    "cost": "3"
+    "clan": "Royal Paladin",
+    "rank": "3"
   },
   "TD01/002EN": {
     "id": "TD01/002EN",
@@ -21,15 +21,15 @@
     "face": {
       "front": {
         "name": "Knight of Conviction, Bors",
-        "type": "Royal Paladin",
-        "cost": "3",
+        "clan": "Royal Paladin",
+        "rank": "3",
         "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD01/TD01_002EN.jpg",
         "isHorizontal": false
       }
     },
     "name": "Knight of Conviction, Bors",
-    "type": "Royal Paladin",
-    "cost": "3"
+    "clan": "Royal Paladin",
+    "rank": "3"
   },
   "TD01/003EN": {
     "id": "TD01/003EN",
@@ -37,15 +37,15 @@
     "face": {
       "front": {
         "name": "Solitary Knight, Gancelot",
-        "type": "Royal Paladin",
-        "cost": "3",
+        "clan": "Royal Paladin",
+        "rank": "3",
         "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD01/TD01_003EN.jpg",
         "isHorizontal": false
       }
     },
     "name": "Solitary Knight, Gancelot",
-    "type": "Royal Paladin",
-    "cost": "3"
+    "clan": "Royal Paladin",
+    "rank": "3"
   },
   "TD01/004EN": {
     "id": "TD01/004EN",
@@ -53,15 +53,15 @@
     "face": {
       "front": {
         "name": "Knight of Silence, Gallatin",
-        "type": "Royal Paladin",
-        "cost": "3",
+        "clan": "Royal Paladin",
+        "rank": "3",
         "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD01/TD01_004EN.jpg",
         "isHorizontal": false
       }
     },
     "name": "Knight of Silence, Gallatin",
-    "type": "Royal Paladin",
-    "cost": "3"
+    "clan": "Royal Paladin",
+    "rank": "3"
   },
   "TD01/005EN": {
     "id": "TD01/005EN",
@@ -69,15 +69,15 @@
     "face": {
       "front": {
         "name": "Blaster Blade",
-        "type": "Royal Paladin",
-        "cost": "2",
+        "clan": "Royal Paladin",
+        "rank": "2",
         "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD01/TD01_005EN.jpg",
         "isHorizontal": false
       }
     },
     "name": "Blaster Blade",
-    "type": "Royal Paladin",
-    "cost": "2"
+    "clan": "Royal Paladin",
+    "rank": "2"
   },
   "TD01/006EN": {
     "id": "TD01/006EN",
@@ -85,15 +85,15 @@
     "face": {
       "front": {
         "name": "Knight of the Harp, Tristan",
-        "type": "Royal Paladin",
-        "cost": "2",
+        "clan": "Royal Paladin",
+        "rank": "2",
         "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD01/TD01_006EN.jpg",
         "isHorizontal": false
       }
     },
     "name": "Knight of the Harp, Tristan",
-    "type": "Royal Paladin",
-    "cost": "2"
+    "clan": "Royal Paladin",
+    "rank": "2"
   },
   "TD01/007EN": {
     "id": "TD01/007EN",
@@ -101,15 +101,15 @@
     "face": {
       "front": {
         "name": "Covenant Knight, Randolf",
-        "type": "Royal Paladin",
-        "cost": "2",
+        "clan": "Royal Paladin",
+        "rank": "2",
         "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD01/TD01_007EN.jpg",
         "isHorizontal": false
       }
     },
     "name": "Covenant Knight, Randolf",
-    "type": "Royal Paladin",
-    "cost": "2"
+    "clan": "Royal Paladin",
+    "rank": "2"
   },
   "TD01/008EN": {
     "id": "TD01/008EN",
@@ -117,15 +117,15 @@
     "face": {
       "front": {
         "name": "Little Sage, Marron",
-        "type": "Royal Paladin",
-        "cost": "1",
+        "clan": "Royal Paladin",
+        "rank": "1",
         "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD01/TD01_008EN.jpg",
         "isHorizontal": false
       }
     },
     "name": "Little Sage, Marron",
-    "type": "Royal Paladin",
-    "cost": "1"
+    "clan": "Royal Paladin",
+    "rank": "1"
   },
   "TD01/009EN": {
     "id": "TD01/009EN",
@@ -133,15 +133,15 @@
     "face": {
       "front": {
         "name": "Wingal",
-        "type": "Royal Paladin",
-        "cost": "1",
+        "clan": "Royal Paladin",
+        "rank": "1",
         "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD01/TD01_009EN.jpg",
         "isHorizontal": false
       }
     },
     "name": "Wingal",
-    "type": "Royal Paladin",
-    "cost": "1"
+    "clan": "Royal Paladin",
+    "rank": "1"
   },
   "TD01/010EN": {
     "id": "TD01/010EN",
@@ -149,15 +149,15 @@
     "face": {
       "front": {
         "name": "Starlight Unicorn",
-        "type": "Royal Paladin",
-        "cost": "1",
+        "clan": "Royal Paladin",
+        "rank": "1",
         "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD01/TD01_010EN.jpg",
         "isHorizontal": false
       }
     },
     "name": "Starlight Unicorn",
-    "type": "Royal Paladin",
-    "cost": "1"
+    "clan": "Royal Paladin",
+    "rank": "1"
   },
   "TD01/011EN": {
     "id": "TD01/011EN",
@@ -165,15 +165,15 @@
     "face": {
       "front": {
         "name": "Knight of Rose, Morgana",
-        "type": "Royal Paladin",
-        "cost": "1",
+        "clan": "Royal Paladin",
+        "rank": "1",
         "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD01/TD01_011EN.jpg",
         "isHorizontal": false
       }
     },
     "name": "Knight of Rose, Morgana",
-    "type": "Royal Paladin",
-    "cost": "1"
+    "clan": "Royal Paladin",
+    "rank": "1"
   },
   "TD01/012EN": {
     "id": "TD01/012EN",
@@ -181,15 +181,15 @@
     "face": {
       "front": {
         "name": "Stardust Trumpeter",
-        "type": "Royal Paladin",
-        "cost": "0",
+        "clan": "Royal Paladin",
+        "rank": "0",
         "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD01/TD01_012EN.jpg",
         "isHorizontal": false
       }
     },
     "name": "Stardust Trumpeter",
-    "type": "Royal Paladin",
-    "cost": "0"
+    "clan": "Royal Paladin",
+    "rank": "0"
   },
   "TD01/013EN": {
     "id": "TD01/013EN",
@@ -197,15 +197,15 @@
     "face": {
       "front": {
         "name": "Bringer of Good Luck, Epona",
-        "type": "Royal Paladin",
-        "cost": "0",
+        "clan": "Royal Paladin",
+        "rank": "0",
         "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD01/TD01_013EN.jpg",
         "isHorizontal": false
       }
     },
     "name": "Bringer of Good Luck, Epona",
-    "type": "Royal Paladin",
-    "cost": "0"
+    "clan": "Royal Paladin",
+    "rank": "0"
   },
   "TD01/014EN": {
     "id": "TD01/014EN",
@@ -213,15 +213,15 @@
     "face": {
       "front": {
         "name": "Yggdrasil Maiden, Elaine",
-        "type": "Royal Paladin",
-        "cost": "0",
+        "clan": "Royal Paladin",
+        "rank": "0",
         "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD01/TD01_014EN.jpg",
         "isHorizontal": false
       }
     },
     "name": "Yggdrasil Maiden, Elaine",
-    "type": "Royal Paladin",
-    "cost": "0"
+    "clan": "Royal Paladin",
+    "rank": "0"
   },
   "TD01/015EN": {
     "id": "TD01/015EN",
@@ -229,15 +229,15 @@
     "face": {
       "front": {
         "name": "Weapons Dealer, Govannon",
-        "type": "Royal Paladin",
-        "cost": "0",
+        "clan": "Royal Paladin",
+        "rank": "0",
         "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD01/TD01_015EN.jpg",
         "isHorizontal": false
       }
     },
     "name": "Weapons Dealer, Govannon",
-    "type": "Royal Paladin",
-    "cost": "0"
+    "clan": "Royal Paladin",
+    "rank": "0"
   },
   "TD01/016EN": {
     "id": "TD01/016EN",
@@ -245,14 +245,14 @@
     "face": {
       "front": {
         "name": "Flogal",
-        "type": "Royal Paladin",
-        "cost": "0",
+        "clan": "Royal Paladin",
+        "rank": "0",
         "image": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/TD01/TD01_016EN.jpg",
         "isHorizontal": false
       }
     },
     "name": "Flogal",
-    "type": "Royal Paladin",
-    "cost": "0"
+    "clan": "Royal Paladin",
+    "rank": "0"
   }
 }

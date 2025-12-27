@@ -9,20 +9,19 @@
       "https://valcur.github.io/TCG-Arena-Yugioh/Images/4.jpg",
       "https://valcur.github.io/TCG-Arena-Yugioh/Images/5.jpg"
     ],
-    "decksUrl": ""
+    "decksUrl": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard JSON/Preconstructed Decks/TD01.json"
   },
   "customHelp": "",
   "cardRotation": 90,
   "cards": {
     "dataUrl": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard JSON/Card Lists/CardfightVanguardCardList.json",
-    "cardBack": "https://cybernik12.github.io/CardFight-Vanguard/Cardfight Vanguard/Cardfight Vanguard Images/Cardbacks/Sleeve133.jpg",
+    "cardBack": "https://static.wikia.nocookie.net/yugioh/images/9/95/SlifertheSkyDragon-GBI-AE-Back.png",
     "cardBackColor": "#C18264"
   },
   "deckBuilding": {
     "mainFilters": [
-      "Cost",
-      "Clan",
-      "Name"
+      "rank",
+      "clan"
     ],
     "formats": [
       {
