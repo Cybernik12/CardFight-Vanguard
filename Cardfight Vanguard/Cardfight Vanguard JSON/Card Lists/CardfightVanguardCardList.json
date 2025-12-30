@@ -13,7 +13,8 @@
     },
     "name": "Crimson Butterfly, Brigitte",
     "type": "Royal Paladin",
-    "cost": "3"
+    "cost": "3",
+    "set": "TD01"
   },
   "TD01/002EN": {
     "id": "TD01/002EN",
@@ -29,7 +30,8 @@
     },
     "name": "Knight of Conviction, Bors",
     "type": "Royal Paladin",
-    "cost": "3"
+    "cost": "3",
+    "set": "TD01"
   },
   "TD01/003EN": {
     "id": "TD01/003EN",
@@ -45,7 +47,8 @@
     },
     "name": "Solitary Knight, Gancelot",
     "type": "Royal Paladin",
-    "cost": "3"
+    "cost": "3",
+    "set": "TD01"
   },
   "TD01/004EN": {
     "id": "TD01/004EN",
@@ -61,7 +64,8 @@
     },
     "name": "Knight of Silence, Gallatin",
     "type": "Royal Paladin",
-    "cost": "3"
+    "cost": "3",
+    "set": "TD01"
   },
   "TD01/005EN": {
     "id": "TD01/005EN",
@@ -77,7 +81,8 @@
     },
     "name": "Blaster Blade",
     "type": "Royal Paladin",
-    "cost": "2"
+    "cost": "2",
+    "set": "TD01"
   },
   "TD01/006EN": {
     "id": "TD01/006EN",
@@ -93,7 +98,8 @@
     },
     "name": "Knight of the Harp, Tristan",
     "type": "Royal Paladin",
-    "cost": "2"
+    "cost": "2",
+    "set": "TD01"
   },
   "TD01/007EN": {
     "id": "TD01/007EN",
@@ -109,7 +115,8 @@
     },
     "name": "Covenant Knight, Randolf",
     "type": "Royal Paladin",
-    "cost": "2"
+    "cost": "2",
+    "set": "TD01"
   },
   "TD01/008EN": {
     "id": "TD01/008EN",
@@ -125,7 +132,8 @@
     },
     "name": "Little Sage, Marron",
     "type": "Royal Paladin",
-    "cost": "1"
+    "cost": "1",
+    "set": "TD01"
   },
   "TD01/009EN": {
     "id": "TD01/009EN",
@@ -141,7 +149,8 @@
     },
     "name": "Wingal",
     "type": "Royal Paladin",
-    "cost": "1"
+    "cost": "1",
+    "set": "TD01"
   },
   "TD01/010EN": {
     "id": "TD01/010EN",
@@ -157,7 +166,8 @@
     },
     "name": "Starlight Unicorn",
     "type": "Royal Paladin",
-    "cost": "1"
+    "cost": "1",
+    "set": "TD01"
   },
   "TD01/011EN": {
     "id": "TD01/011EN",
@@ -173,7 +183,8 @@
     },
     "name": "Knight of Rose, Morgana",
     "type": "Royal Paladin",
-    "cost": "1"
+    "cost": "1",
+    "set": "TD01"
   },
   "TD01/012EN": {
     "id": "TD01/012EN",
@@ -189,7 +200,8 @@
     },
     "name": "Stardust Trumpeter",
     "type": "Royal Paladin",
-    "cost": "0"
+    "cost": "0",
+    "set": "TD01"
   },
   "TD01/013EN": {
     "id": "TD01/013EN",
@@ -205,7 +217,8 @@
     },
     "name": "Bringer of Good Luck, Epona",
     "type": "Royal Paladin",
-    "cost": "0"
+    "cost": "0",
+    "set": "TD01"
   },
   "TD01/014EN": {
     "id": "TD01/014EN",
@@ -221,7 +234,8 @@
     },
     "name": "Yggdrasil Maiden, Elaine",
     "type": "Royal Paladin",
-    "cost": "0"
+    "cost": "0",
+    "set": "TD01"
   },
   "TD01/015EN": {
     "id": "TD01/015EN",
@@ -237,7 +251,8 @@
     },
     "name": "Weapons Dealer, Govannon",
     "type": "Royal Paladin",
-    "cost": "0"
+    "cost": "0",
+    "set": "TD01"
   },
   "TD01/016EN": {
     "id": "TD01/016EN",
@@ -253,7 +268,8 @@
     },
     "name": "Flogal",
     "type": "Royal Paladin",
-    "cost": "0"
+    "cost": "0",
+    "set": "TD01"
   },
 
   "TD02/001EN": {
@@ -270,7 +286,8 @@
     },
     "name": "Dragonic Overlord",
     "type": "Kagero",
-    "cost": "3"
+    "cost": "3",
+    "set": "TD02"
   },
   "TD02/002EN": {
     "id": "TD02/002EN",
@@ -286,7 +303,8 @@
     },
     "name": "Dragon Monk, Goku",
     "type": "Kagero",
-    "cost": "3"
+    "cost": "3",
+    "set": "TD02"
   },
   "TD02/003EN": {
     "id": "TD02/003EN",
@@ -302,7 +320,8 @@
     },
     "name": "Demonic Dragon Berserker, Yaksha",
     "type": "Kagero",
-    "cost": "3"
+    "cost": "3",
+    "set": "TD02"
   },
   "TD02/004EN": {
     "id": "TD02/004EN",
@@ -318,7 +337,8 @@
     },
     "name": "Dragon Knight, Nehalem",
     "type": "Kagero",
-    "cost": "2"
+    "cost": "2",
+    "set": "TD02"
   },
   "TD02/005EN": {
     "id": "TD02/005EN",
@@ -334,7 +354,8 @@
     },
     "name": "Berserk Dragon",
     "type": "Kagero",
-    "cost": "2"
+    "cost": "2",
+    "set": "TD02"
   },
   "TD02/006EN": {
     "id": "TD02/006EN",
@@ -350,7 +371,8 @@
     },
     "name": "Wyvern Strike, Tejas",
     "type": "Kagero",
-    "cost": "2"
+    "cost": "2",
+    "set": "TD02"
   },
   "TD02/007EN": {
     "id": "TD02/007EN",
@@ -366,7 +388,8 @@
     },
     "name": "Embodiment of Armor, Bahr",
     "type": "Kagero",
-    "cost": "1"
+    "cost": "1",
+    "set": "TD02"
   },
   "TD02/008EN": {
     "id": "TD02/008EN",
@@ -382,7 +405,8 @@
     },
     "name": "Dragon Monk, Gojo",
     "type": "Kagero",
-    "cost": "1"
+    "cost": "1",
+    "set": "TD02"
   },
   "TD02/009EN": {
     "id": "TD02/009EN",
@@ -398,7 +422,8 @@
     },
     "name": "Flame of Hope, Aermo",
     "type": "Kagero",
-    "cost": "1"
+    "cost": "1",
+    "set": "TD02"
   },
   "TD02/010EN": {
     "id": "TD02/010EN",
@@ -414,7 +439,8 @@
     },
     "name": "Demonic Dragon Madonna, Joka",
     "type": "Kagero",
-    "cost": "1"
+    "cost": "1",
+    "set": "TD02"
   },
   "TD02/011EN": {
     "id": "TD02/011EN",
@@ -430,7 +456,8 @@
     },
     "name": "Wyvern Strike, Jarran",
     "type": "Kagero",
-    "cost": "1"
+    "cost": "1",
+    "set": "TD02"
   },
   "TD02/012EN": {
     "id": "TD02/012EN",
@@ -446,7 +473,8 @@
     },
     "name": "Lizard Runner, Undeux",
     "type": "Kagero",
-    "cost": "0"
+    "cost": "0",
+    "set": "TD02"
   },
   "TD02/013EN": {
     "id": "TD02/013EN",
@@ -462,7 +490,8 @@
     },
     "name": "Dragon Dancer, Monica",
     "type": "Kagero",
-    "cost": "0"
+    "cost": "0",
+    "set": "TD02"
   },
   "TD02/014EN": {
     "id": "TD02/014EN",
@@ -478,7 +507,8 @@
     },
     "name": "Lizard Soldier, Ganlu",
     "type": "Kagero",
-    "cost": "0"
+    "cost": "0",
+    "set": "TD02"
   },
   "TD02/015EN": {
     "id": "TD02/015EN",
@@ -494,7 +524,8 @@
     },
     "name": "Dragon Monk, Genjo",
     "type": "Kagero",
-    "cost": "0"
+    "cost": "0",
+    "set": "TD02"
   },
   "TD02/016EN": {
     "id": "TD02/016EN",
@@ -510,7 +541,8 @@
     },
     "name": "Demonic Dragon Mage, Rakshasa",
     "type": "Kagero",
-    "cost": "0"
+    "cost": "0",
+    "set": "TD02"
   },
 
   "TD03/001EN": {
@@ -527,7 +559,8 @@
     },
     "name": "Gold Rutile",
     "type": "Nova Grappler",
-    "cost": "3"
+    "cost": "3",
+    "set": "TD03"
   },
   "TD03/002EN": {
     "id": "TD03/002EN",
@@ -543,7 +576,8 @@
     },
     "name": "Death Metal Droid",
     "type": "Nova Grappler",
-    "cost": "3"
+    "cost": "3",
+    "set": "TD03"
   },
   "TD03/003EN": {
     "id": "TD03/003EN",
@@ -559,7 +593,8 @@
     },
     "name": "Mr. Invincible",
     "type": "Nova Grappler",
-    "cost": "3"
+    "cost": "3",
+    "set": "TD03"
   },
   "TD03/004EN": {
     "id": "TD03/004EN",
@@ -575,7 +610,8 @@
     },
     "name": "King of Sword",
     "type": "Nova Grappler",
-    "cost": "2"
+    "cost": "2",
+    "set": "TD03"
   },
   "TD03/005EN": {
     "id": "TD03/005EN",
@@ -591,7 +627,8 @@
     },
     "name": "Super Electromagnetic Lifeform, Storm",
     "type": "Nova Grappler",
-    "cost": "2"
+    "cost": "2",
+    "set": "TD03"
   },
   "TD03/006EN": {
     "id": "TD03/006EN",
@@ -607,7 +644,8 @@
     },
     "name": "NGM Prototype",
     "type": "Nova Grappler",
-    "cost": "2"
+    "cost": "2",
+    "set": "TD03"
   },
   "TD03/007EN": {
     "id": "TD03/007EN",
@@ -623,7 +661,8 @@
     },
     "name": "Tough Boy",
     "type": "Nova Grappler",
-    "cost": "1"
+    "cost": "1",
+    "set": "TD03"
   },
   "TD03/008EN": {
     "id": "TD03/008EN",
@@ -639,7 +678,8 @@
     },
     "name": "Oasis Girl",
     "type": "Nova Grappler",
-    "cost": "1"
+    "cost": "1",
+    "set": "TD03"
   },
   "TD03/009EN": {
     "id": "TD03/009EN",
@@ -655,7 +695,8 @@
     },
     "name": "Screamin' and Dancin' Announcer, Shout",
     "type": "Nova Grappler",
-    "cost": "1"
+    "cost": "1",
+    "set": "TD03"
   },
   "TD03/010EN": {
     "id": "TD03/010EN",
@@ -671,7 +712,8 @@
     },
     "name": "Queen of Heart",
     "type": "Nova Grappler",
-    "cost": "1"
+    "cost": "1",
+    "set": "TD03"
   },
   "TD03/011EN": {
     "id": "TD03/011EN",
@@ -687,7 +729,8 @@
     },
     "name": "Battering Minotaur",
     "type": "Nova Grappler",
-    "cost": "1"
+    "cost": "1",
+    "set": "TD03"
   },
   "TD03/012EN": {
     "id": "TD03/012EN",
@@ -703,7 +746,8 @@
     },
     "name": "Shining Lady",
     "type": "Nova Grappler",
-    "cost": "0"
+    "cost": "0",
+    "set": "TD03"
   },
   "TD03/013EN": {
     "id": "TD03/013EN",
@@ -719,7 +763,8 @@
     },
     "name": "Cannon Ball",
     "type": "Nova Grappler",
-    "cost": "0"
+    "cost": "0",
+    "set": "TD03"
   },
   "TD03/014EN": {
     "id": "TD03/014EN",
@@ -735,7 +780,8 @@
     },
     "name": "Ring Girl, Clara",
     "type": "Nova Grappler",
-    "cost": "0"
+    "cost": "0",
+    "set": "TD03"
   },
   "TD03/015EN": {
     "id": "TD03/015EN",
@@ -751,7 +797,8 @@
     },
     "name": "Battleraizer",
     "type": "Nova Grappler",
-    "cost": "0"
+    "cost": "0",
+    "set": "TD03"
   },
 
   "TD04/001EN": {
@@ -768,7 +815,8 @@
     },
     "name": "Oracle Guardian, Apollon",
     "type": "Oracle Think Tank",
-    "cost": "3"
+    "cost": "3",
+    "set": "TD04"
   },
   "TD04/002EN": {
     "id": "TD04/002EN",
@@ -784,7 +832,8 @@
     },
     "name": "Goddess of Flower Divination, Sakuya",
     "type": "Oracle Think Tank",
-    "cost": "3"
+    "cost": "3",
+    "set": "TD04"
   },
   "TD04/003EN": {
     "id": "TD04/003EN",
@@ -800,7 +849,8 @@
     },
     "name": "Meteor Break Wizard",
     "type": "Oracle Think Tank",
-    "cost": "3"
+    "cost": "3",
+    "set": "TD04"
   },
   "TD04/004EN": {
     "id": "TD04/004EN",
@@ -816,7 +866,8 @@
     },
     "name": "Oracle Guardian, Wiseman",
     "type": "Oracle Think Tank",
-    "cost": "2"
+    "cost": "2",
+    "set": "TD04"
   },
   "TD04/005EN": {
     "id": "TD04/005EN",
@@ -832,7 +883,8 @@
     },
     "name": "Security Guardian",
     "type": "Oracle Think Tank",
-    "cost": "2"
+    "cost": "2",
+    "set": "TD04"
   },
   "TD04/006EN": {
     "id": "TD04/006EN",
@@ -848,7 +900,8 @@
     },
     "name": "Sword Dancer Angel",
     "type": "Oracle Think Tank",
-    "cost": "2"
+    "cost": "2",
+    "set": "TD04"
   },
   "TD04/007EN": {
     "id": "TD04/007EN",
@@ -864,7 +917,8 @@
     },
     "name": "Oracle Guardian, Gemini",
     "type": "Oracle Think Tank",
-    "cost": "1"
+    "cost": "1",
+    "set": "TD04"
   },
   "TD04/008EN": {
     "id": "TD04/008EN",
@@ -880,7 +934,8 @@
     },
     "name": "Dark Cat",
     "type": "Oracle Think Tank",
-    "cost": "1"
+    "cost": "1",
+    "set": "TD04"
   },
   "TD04/009EN": {
     "id": "TD04/009EN",
@@ -896,7 +951,8 @@
     },
     "name": "Weather Girl, Milk",
     "type": "Oracle Think Tank",
-    "cost": "1"
+    "cost": "1",
+    "set": "TD04"
   },
   "TD04/010EN": {
     "id": "TD04/010EN",
@@ -912,7 +968,8 @@
     },
     "name": "Battle Sister, Maple",
     "type": "Oracle Think Tank",
-    "cost": "1"
+    "cost": "1",
+    "set": "TD04"
   },
   "TD04/011EN": {
     "id": "TD04/011EN",
@@ -928,7 +985,8 @@
     },
     "name": "Luck Bird",
     "type": "Oracle Think Tank",
-    "cost": "1"
+    "cost": "1",
+    "set": "TD04"
   },
   "TD04/012EN": {
     "id": "TD04/012EN",
@@ -944,7 +1002,8 @@
     },
     "name": "Oracle Guardian, Nike",
     "type": "Oracle Think Tank",
-    "cost": "0"
+    "cost": "0",
+    "set": "TD04"
   },
   "TD04/013EN": {
     "id": "TD04/013EN",
@@ -960,7 +1019,8 @@
     },
     "name": "Dream Eater",
     "type": "Oracle Think Tank",
-    "cost": "0"
+    "cost": "0",
+    "set": "TD04"
   },
   "TD04/014EN": {
     "id": "TD04/014EN",
@@ -976,7 +1036,8 @@
     },
     "name": "Victory Maker",
     "type": "Oracle Think Tank",
-    "cost": "0"
+    "cost": "0",
+    "set": "TD04"
   },
   "TD04/015EN": {
     "id": "TD04/015EN",
@@ -992,6 +1053,7 @@
     },
     "name": "Lozenge Magus",
     "type": "Oracle Think Tank",
-    "cost": "0"
+    "cost": "0",
+    "set": "TD04"
   }
 }
