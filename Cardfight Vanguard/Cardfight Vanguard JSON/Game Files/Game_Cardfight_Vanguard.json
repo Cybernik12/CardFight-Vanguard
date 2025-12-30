@@ -16,7 +16,8 @@
   "deckBuilding": {
     "mainFilters": [
       "type",
-      "cost"
+      "cost",
+      "set"
     ],
     "formats": [
       {
