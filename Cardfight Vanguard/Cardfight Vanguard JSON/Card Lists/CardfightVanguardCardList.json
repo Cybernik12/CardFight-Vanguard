@@ -1,6 +1,4 @@
 {
-  // TD01
-
   "TD01/001EN": {
     "id": "TD01/001EN",
     "isToken": false,
@@ -273,8 +271,6 @@
     "cost": "0",
     "set": "TD01"
   },
-
-  // TD02
 
   "TD02/001EN": {
     "id": "TD02/001EN",
@@ -549,8 +545,6 @@
     "set": "TD02"
   },
 
-  // TD03
-
   "TD03/001EN": {
     "id": "TD03/001EN",
     "isToken": false,
@@ -807,8 +801,6 @@
     "set": "TD03"
   },
 
-  // TD04
-
   "TD04/001EN": {
     "id": "TD04/001EN",
     "isToken": false,
@@ -1064,8 +1056,6 @@
     "cost": "0",
     "set": "TD04"
   },
-
-  // BT01
 
   "BT01/001EN": {
     "id": "BT01/001EN",
